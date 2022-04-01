@@ -7,6 +7,7 @@ namespace EmployeWage131batch
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("uc1");
         }
     }
 }
